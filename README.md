@@ -10,7 +10,8 @@ Trabalho do curso de programador de sistemas da turma 2025.5.42
 - Registro de hoário de funcionamento
 - Ferramenta de mudança e cancelamento de planos
 - Banco de dados com planos, informações sobre os funcionários, horários e dados dos cllentes 
-- 
+
+  
 # Requisitos não funcionais
 - Segurança de dados dos usuários
 - Fluidez do sistema
